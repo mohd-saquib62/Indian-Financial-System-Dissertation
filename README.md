@@ -56,7 +56,8 @@ The full dissertation report is available here:
 
 ## Author
 Mohd Saquib  
-MBA (Finance & Marketing) Candidate  
+MBA (Finance & Marketing)
+Batch 2023-2025
 Integral University, Lucknow  
 
 ---
