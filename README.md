@@ -8,8 +8,7 @@ The study explores the structure and operations of the Indian financial system, 
 
 ## Project Report
 
-The full dissertation report is available here:  
-[PDF](https://github.com/mohd-saquib62/Indian-Financial-System-Dissertation/blob/main/The%20Indian%20Financial%20System%20Report.pdf)
+The full dissertation report is available here:  [PDF](https://github.com/mohd-saquib62/Indian-Financial-System-Dissertation/blob/main/The%20Indian%20Financial%20System%20Report.pdf)
 
 
 ## Contents
