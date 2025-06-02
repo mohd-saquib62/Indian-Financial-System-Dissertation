@@ -1,5 +1,5 @@
 # Indian-Financial-System-Dissertation
-# Dissertation Project: The Indian Financial System - Components, Functioning, and Challenges
+# Dissertation Project Report: The Indian Financial System - Components, Functioning, and Challenges
 
 ## Overview
 This repository contains the complete project report for the MBA dissertation titled **"The Indian Financial System: Components, Functioning, and Challenges"** conducted as part of the 4th semester curriculum at Integral University, Lucknow.
