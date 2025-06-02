@@ -6,8 +6,11 @@ This repository contains the complete project report for the MBA dissertation ti
 
 The study explores the structure and operations of the Indian financial system, including key financial institutions, markets, instruments, and regulatory frameworks. It also analyzes major challenges faced by the sector and recent reforms shaping its evolution.
 
+## Project Report
+
 The full dissertation report is available here:  
-[Download PDF](link-to-your-pdf-file.pdf)
+[Download PDF](https://github.com/mohd-saquib62/Indian-Financial-System-Dissertation/blob/main/The%20Indian%20Financial%20System%20Report.pdf)
+
 
 ## Contents
 
